@@ -1,0 +1,27 @@
+<RCC>
+    <qresource prefix="/">
+        <file>Window_Login.qml</file>
+        <file>MainForm.ui.qml</file>
+        <file>Window_Main.qml</file>
+        <file>DialogBox.qml</file>
+        <file>js/APiWorker.js</file>
+        <file>js/WindowWorker.js</file>
+        <file>site/Window_Site_All.qml</file>
+        <file>site/Window_Site_Add.qml</file>
+        <file>category/Window_Category_Add.qml</file>
+        <file>category/Window_Category_All.qml</file>
+        <file>category/Window_Category_Remove.qml</file>
+        <file>car/Window_Car_All.qml</file>
+        <file>car/Window_Car_Add.qml</file>
+        <file>car/Window_Car_Remove.qml</file>
+        <file>user/Window_User_Add.qml</file>
+        <file>user/Window_User_Update.qml</file>
+        <file>assets/car.png</file>
+        <file>assets/closeicon.png</file>
+        <file>site/Window_Site_Remove.qml</file>
+        <file>rental/Window_Rental_Add.qml</file>
+        <file>rental/Window_Rental_All.qml</file>
+        <file>rental/Window_Rental_Remove.qml</file>
+        <file>Window_About.qml</file>
+    </qresource>
+</RCC>
